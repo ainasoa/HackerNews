@@ -39,7 +39,7 @@ export default function useProfilFormik() {
 
         if (!values.photo) delete body.photo;
 
-        await axiosInstance.patchForm("/profil", body);
+        await axiosInstance.patch("/profil", body);
 
         await mutate();
         await setSubmitSuccess("Success !");

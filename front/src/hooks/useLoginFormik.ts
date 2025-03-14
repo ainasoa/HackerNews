@@ -30,8 +30,6 @@ export default function useLoginFormik() {
         });
 
         await router.replace(routePath["/news"]);
-
-        throw new Error("Error");
       } catch (error) {
         console.log(error);
 

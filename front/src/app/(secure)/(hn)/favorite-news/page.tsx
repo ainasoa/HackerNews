@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 import React, { useMemo } from "react";
@@ -22,7 +23,7 @@ export default function FavoriteStoriesPage() {
     <>
       <HnError error={swr.error} />
       <HnLoader isLoading={swr.isLoading} />
-      {swr.canRender && <HnStoriesList data={data as StoryType[]} />}
+      {swr.canRender && <HnStoriesList data={(data as StoryType[]) || []} />}
     </>
   );
 }
