@@ -1,0 +1,63 @@
+{
+    "exhaustive": {
+        "nbHits": true,
+        "typo": true
+    },
+    "exhaustiveNbHits": true,
+    "exhaustiveTypo": true,
+    "hits": [
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "toomuchtodo"
+                },
+                "comment_text": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Previous:\u003Cp\u003E\u003Ca href=\"https://news.ycombinator.com/item?id=43322485\"\u003Ehttps://news.ycombinator.com/item?id=43322485\u003C/a\u003E (no comments)"
+                },
+                "story_title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Kevin Drum Passed Away"
+                },
+                "story_url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://jabberwocking.com/health-update-100/"
+                }
+            },
+            "_tags": [
+                "comment",
+                "author_toomuchtodo",
+                "story_43332461"
+            ],
+            "author": "toomuchtodo",
+            "comment_text": "Previous:\u003Cp\u003E\u003Ca href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43322485\"\u003Ehttps:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43322485\u003C/a\u003E (no comments)",
+            "created_at": "2025-03-11T14:41:27Z",
+            "created_at_i": 1741704087,
+            "objectID": "43332916",
+            "parent_id": 43332461,
+            "story_id": 43332461,
+            "story_title": "Kevin Drum Passed Away",
+            "story_url": "https://jabberwocking.com/health-update-100/",
+            "updated_at": "2025-03-11T14:45:09Z"
+        }
+    ],
+    "hitsPerPage": 20,
+    "nbHits": 1,
+    "nbPages": 1,
+    "page": 0,
+    "params": "tags=comment%2Cstory_43332461&advancedSyntax=true&analyticsTags=backend",
+    "processingTimeMS": 1,
+    "processingTimingsMS": {
+        "_request": {
+            "roundTrip": 14
+        },
+        "total": 0
+    },
+    "query": "",
+    "serverTimeMS": 1
+}

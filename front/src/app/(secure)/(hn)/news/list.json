@@ -1,0 +1,750 @@
+{
+    "exhaustive": {
+        "nbHits": false,
+        "typo": true
+    },
+    "exhaustiveNbHits": false,
+    "exhaustiveTypo": true,
+    "hits": [
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "CafeRacer"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Firefox Keeps Firefoxing"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://blog-doe.pages.dev/p/firefox-is-firefoxing/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_CafeRacer",
+                "story_43332463"
+            ],
+            "author": "CafeRacer",
+            "children": [
+                43332478
+            ],
+            "created_at": "2025-03-11T13:53:26Z",
+            "created_at_i": 1741701206,
+            "num_comments": 0,
+            "objectID": "43332463",
+            "points": 1,
+            "story_id": 43332463,
+            "title": "Firefox Keeps Firefoxing",
+            "updated_at": "2025-03-11T13:55:09Z",
+            "url": "https://blog-doe.pages.dev/p/firefox-is-firefoxing/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "_tk_"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Kevin Drum Passed Away"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://jabberwocking.com/health-update-100/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author__tk_",
+                "story_43332461"
+            ],
+            "author": "_tk_",
+            "created_at": "2025-03-11T13:53:10Z",
+            "created_at_i": 1741701190,
+            "num_comments": 0,
+            "objectID": "43332461",
+            "points": 1,
+            "story_id": 43332461,
+            "title": "Kevin Drum Passed Away",
+            "updated_at": "2025-03-11T13:55:09Z",
+            "url": "https://jabberwocking.com/health-update-100/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "spaghetti-code"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Show HN: A CSS Puzzle Game"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://csshell.com"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_spaghetti-code",
+                "story_43332454",
+                "show_hn"
+            ],
+            "author": "spaghetti-code",
+            "created_at": "2025-03-11T13:52:33Z",
+            "created_at_i": 1741701153,
+            "num_comments": 0,
+            "objectID": "43332454",
+            "points": 1,
+            "story_id": 43332454,
+            "title": "Show HN: A CSS Puzzle Game",
+            "updated_at": "2025-03-11T13:55:09Z",
+            "url": "https://csshell.com"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "prakka"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "'Anti-Acknowledgements' in Dr Rachel Los' PhD Thesis"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://delta.tudelft.nl/en/article/a-no-thank-you-to-the-person-who-assumed-i-was-the-coffee-lady"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_prakka",
+                "story_43332449"
+            ],
+            "author": "prakka",
+            "children": [
+                43332450
+            ],
+            "created_at": "2025-03-11T13:52:15Z",
+            "created_at_i": 1741701135,
+            "num_comments": 0,
+            "objectID": "43332449",
+            "points": 1,
+            "story_id": 43332449,
+            "title": "'Anti-Acknowledgements' in Dr Rachel Los' PhD Thesis",
+            "updated_at": "2025-03-11T13:53:09Z",
+            "url": "https://delta.tudelft.nl/en/article/a-no-thank-you-to-the-person-who-assumed-i-was-the-coffee-lady"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "cft"
+                },
+                "story_text": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "I am thinking that the current languages are not ideal for the LLM &quot;thinking&quot;. Perhaps a new, more LLM friendly language can be created, to increase the efficiency of automatic coding. \nOn the other hand, there will be no initial training data in this language. Will that language still be easily readable to humans?\u003Cp\u003EMy more general question is how the appearance of LLM coding would affect the languages evolution?"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Ask HN: Given LLM assisted coding, will a new programming language emerge?"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_cft",
+                "story_43332429",
+                "ask_hn"
+            ],
+            "author": "cft",
+            "created_at": "2025-03-11T13:50:47Z",
+            "created_at_i": 1741701047,
+            "num_comments": 0,
+            "objectID": "43332429",
+            "points": 1,
+            "story_id": 43332429,
+            "story_text": "I am thinking that the current languages are not ideal for the LLM &quot;thinking&quot;. Perhaps a new, more LLM friendly language can be created, to increase the efficiency of automatic coding. \nOn the other hand, there will be no initial training data in this language. Will that language still be easily readable to humans?\u003Cp\u003EMy more general question is how the appearance of LLM coding would affect the languages evolution?",
+            "title": "Ask HN: Given LLM assisted coding, will a new programming language emerge?",
+            "updated_at": "2025-03-11T13:52:54Z"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "speckx"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_speckx",
+                "story_43332424"
+            ],
+            "author": "speckx",
+            "created_at": "2025-03-11T13:50:22Z",
+            "created_at_i": 1741701022,
+            "num_comments": 0,
+            "objectID": "43332424",
+            "points": 1,
+            "story_id": 43332424,
+            "title": "Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond",
+            "updated_at": "2025-03-11T13:52:54Z",
+            "url": "https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "danso"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Gambling with the Law: How SCOTUSblog's Goldstein Risked All"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://news.bloomberglaw.com/business-and-practice/gambling-with-the-law-how-scotusblogs-goldstein-risked-it-all"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_danso",
+                "story_43332403"
+            ],
+            "author": "danso",
+            "children": [
+                43332418
+            ],
+            "created_at": "2025-03-11T13:47:27Z",
+            "created_at_i": 1741700847,
+            "num_comments": 0,
+            "objectID": "43332403",
+            "points": 1,
+            "story_id": 43332403,
+            "title": "Gambling with the Law: How SCOTUSblog's Goldstein Risked All",
+            "updated_at": "2025-03-11T13:52:54Z",
+            "url": "https://news.bloomberglaw.com/business-and-practice/gambling-with-the-law-how-scotusblogs-goldstein-risked-it-all"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "cs702"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Opinion: The Greatest Threat to Free Speech Since the Red Scare"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.nytimes.com/2025/03/10/opinion/mahmoud-khalil-free-speech.html"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_cs702",
+                "story_43332398"
+            ],
+            "author": "cs702",
+            "children": [
+                43332400
+            ],
+            "created_at": "2025-03-11T13:46:27Z",
+            "created_at_i": 1741700787,
+            "num_comments": 0,
+            "objectID": "43332398",
+            "points": 3,
+            "story_id": 43332398,
+            "title": "Opinion: The Greatest Threat to Free Speech Since the Red Scare",
+            "updated_at": "2025-03-11T13:55:09Z",
+            "url": "https://www.nytimes.com/2025/03/10/opinion/mahmoud-khalil-free-speech.html"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "bystry"
+                },
+                "story_text": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Hey HN!\u003Cp\u003EWe’re launching Documorpher, an intelligent document transformation tool that uses AI to extract, transform, and structure data across different formats and modalities. Whether you need to convert DOCX to Excel while preserving context or extract key insights from PDFs, Documorpher ensures accurate and structured transformations.\u003Cp\u003EUse Cases:\u003Cp\u003E- Extracting invoices, reports, and structured documents into Excel\u003Cp\u003E- Transforming product descriptions into structured sections\u003Cp\u003E- Standardizing financial reports across different formats\u003Cp\u003ECheck it out on GitHub: \u003Ca href=\"https://github.com/Bukareszt/Documorpher\" rel=\"nofollow\"\u003Ehttps://github.com/Bukareszt/Documorpher\u003C/a\u003E\u003Cp\u003EWe’d love to hear your thoughts—any feedback, feature suggestions, or critiques are more than welcome!"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Show HN: Documorpher – AI-powered document transformation"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://github.com/Bukareszt/Documorpher"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_bystry",
+                "story_43332382",
+                "show_hn"
+            ],
+            "author": "bystry",
+            "created_at": "2025-03-11T13:44:56Z",
+            "created_at_i": 1741700696,
+            "num_comments": 0,
+            "objectID": "43332382",
+            "points": 1,
+            "story_id": 43332382,
+            "story_text": "Hey HN!\u003Cp\u003EWe’re launching Documorpher, an intelligent document transformation tool that uses AI to extract, transform, and structure data across different formats and modalities. Whether you need to convert DOCX to Excel while preserving context or extract key insights from PDFs, Documorpher ensures accurate and structured transformations.\u003Cp\u003EUse Cases:\u003Cp\u003E- Extracting invoices, reports, and structured documents into Excel\u003Cp\u003E- Transforming product descriptions into structured sections\u003Cp\u003E- Standardizing financial reports across different formats\u003Cp\u003ECheck it out on GitHub: \u003Ca href=\"https:&#x2F;&#x2F;github.com&#x2F;Bukareszt&#x2F;Documorpher\" rel=\"nofollow\"\u003Ehttps:&#x2F;&#x2F;github.com&#x2F;Bukareszt&#x2F;Documorpher\u003C/a\u003E\u003Cp\u003EWe’d love to hear your thoughts—any feedback, feature suggestions, or critiques are more than welcome!",
+            "title": "Show HN: Documorpher – AI-powered document transformation",
+            "updated_at": "2025-03-11T13:47:54Z",
+            "url": "https://github.com/Bukareszt/Documorpher"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "ciccionamente"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Water Simulation via WebGPU"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://ocean.addy.ie/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_ciccionamente",
+                "story_43332380"
+            ],
+            "author": "ciccionamente",
+            "created_at": "2025-03-11T13:44:55Z",
+            "created_at_i": 1741700695,
+            "num_comments": 0,
+            "objectID": "43332380",
+            "points": 1,
+            "story_id": 43332380,
+            "title": "Water Simulation via WebGPU",
+            "updated_at": "2025-03-11T13:47:54Z",
+            "url": "https://ocean.addy.ie/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "code-forge"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "ScribePal: AI-Powered Browser Extension for Secure, Private Assistance"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://github.com/code-forge-temple/scribe-pal"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_code-forge",
+                "story_43332358"
+            ],
+            "author": "code-forge",
+            "children": [
+                43332359
+            ],
+            "created_at": "2025-03-11T13:42:12Z",
+            "created_at_i": 1741700532,
+            "num_comments": 1,
+            "objectID": "43332358",
+            "points": 1,
+            "story_id": 43332358,
+            "title": "ScribePal: AI-Powered Browser Extension for Secure, Private Assistance",
+            "updated_at": "2025-03-11T13:43:23Z",
+            "url": "https://github.com/code-forge-temple/scribe-pal"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "PaulHoule"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Money laundering plays a key role in every part of the illegal drugs industry"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://theconversation.com/money-laundering-plays-a-key-role-in-every-part-of-the-illegal-drugs-industry-heres-how-it-works-251288"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_PaulHoule",
+                "story_43332356"
+            ],
+            "author": "PaulHoule",
+            "children": [
+                43332394
+            ],
+            "created_at": "2025-03-11T13:42:05Z",
+            "created_at_i": 1741700525,
+            "num_comments": 0,
+            "objectID": "43332356",
+            "points": 1,
+            "story_id": 43332356,
+            "title": "Money laundering plays a key role in every part of the illegal drugs industry",
+            "updated_at": "2025-03-11T13:46:56Z",
+            "url": "https://theconversation.com/money-laundering-plays-a-key-role-in-every-part-of-the-illegal-drugs-industry-heres-how-it-works-251288"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "gmays"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Tardigrade Protein Shields Mouse Cells from Radiation"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.the-scientist.com/tardigrade-protein-shields-mouse-cells-from-radiation-72747"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_gmays",
+                "story_43332353"
+            ],
+            "author": "gmays",
+            "children": [
+                43332363
+            ],
+            "created_at": "2025-03-11T13:41:36Z",
+            "created_at_i": 1741700496,
+            "num_comments": 0,
+            "objectID": "43332353",
+            "points": 2,
+            "story_id": 43332353,
+            "title": "Tardigrade Protein Shields Mouse Cells from Radiation",
+            "updated_at": "2025-03-11T13:43:23Z",
+            "url": "https://www.the-scientist.com/tardigrade-protein-shields-mouse-cells-from-radiation-72747"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "philk10"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "A Practical Guide to Running Local LLMs"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://spin.atomicobject.com/running-local-llms/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_philk10",
+                "story_43332352"
+            ],
+            "author": "philk10",
+            "created_at": "2025-03-11T13:41:31Z",
+            "created_at_i": 1741700491,
+            "num_comments": 0,
+            "objectID": "43332352",
+            "points": 1,
+            "story_id": 43332352,
+            "title": "A Practical Guide to Running Local LLMs",
+            "updated_at": "2025-03-11T13:42:39Z",
+            "url": "https://spin.atomicobject.com/running-local-llms/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "belter"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Oracle misses on earnings and issues weak revenue guidance"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.cnbc.com/2025/03/10/oracle-orcl-q3-earnings-report-2025.html"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_belter",
+                "story_43332345"
+            ],
+            "author": "belter",
+            "children": [
+                43332390
+            ],
+            "created_at": "2025-03-11T13:40:55Z",
+            "created_at_i": 1741700455,
+            "num_comments": 0,
+            "objectID": "43332345",
+            "points": 1,
+            "story_id": 43332345,
+            "title": "Oracle misses on earnings and issues weak revenue guidance",
+            "updated_at": "2025-03-11T13:49:38Z",
+            "url": "https://www.cnbc.com/2025/03/10/oracle-orcl-q3-earnings-report-2025.html"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "cubefox"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "We Have No Plan for Preventing Loss of Control in Open Models"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.lesswrong.com/posts/QSyshep2CRs8JTPwK/we-have-no-plan-for-preventing-loss-of-control-in-open"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_cubefox",
+                "story_43332336"
+            ],
+            "author": "cubefox",
+            "children": [
+                43332343
+            ],
+            "created_at": "2025-03-11T13:39:36Z",
+            "created_at_i": 1741700376,
+            "num_comments": 0,
+            "objectID": "43332336",
+            "points": 1,
+            "story_id": 43332336,
+            "title": "We Have No Plan for Preventing Loss of Control in Open Models",
+            "updated_at": "2025-03-11T13:42:39Z",
+            "url": "https://www.lesswrong.com/posts/QSyshep2CRs8JTPwK/we-have-no-plan-for-preventing-loss-of-control-in-open"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "eatonphil"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Was Salonica a Levantine City? (2012)"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.levantineheritage.com/note138.htm"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_eatonphil",
+                "story_43332323"
+            ],
+            "author": "eatonphil",
+            "children": [
+                43332329
+            ],
+            "created_at": "2025-03-11T13:38:17Z",
+            "created_at_i": 1741700297,
+            "num_comments": 0,
+            "objectID": "43332323",
+            "points": 1,
+            "story_id": 43332323,
+            "title": "Was Salonica a Levantine City? (2012)",
+            "updated_at": "2025-03-11T13:42:39Z",
+            "url": "https://www.levantineheritage.com/note138.htm"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "tntpreneur"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "DeepSeek-R1 now available as a managed serverless model in Amazon Bedrock"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://aws.amazon.com/blogs/aws/deepseek-r1-now-available-as-a-fully-managed-serverless-model-in-amazon-bedrock/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_tntpreneur",
+                "story_43332300"
+            ],
+            "author": "tntpreneur",
+            "children": [
+                43332312
+            ],
+            "created_at": "2025-03-11T13:35:46Z",
+            "created_at_i": 1741700146,
+            "num_comments": 0,
+            "objectID": "43332300",
+            "points": 2,
+            "story_id": 43332300,
+            "title": "DeepSeek-R1 now available as a managed serverless model in Amazon Bedrock",
+            "updated_at": "2025-03-11T13:41:41Z",
+            "url": "https://aws.amazon.com/blogs/aws/deepseek-r1-now-available-as-a-fully-managed-serverless-model-in-amazon-bedrock/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "rbanffy"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Emerging launch companies see strong demand but look for government support"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://spacenews.com/emerging-launch-companies-see-strong-demand-but-look-for-government-support/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_rbanffy",
+                "story_43332298"
+            ],
+            "author": "rbanffy",
+            "created_at": "2025-03-11T13:35:33Z",
+            "created_at_i": 1741700133,
+            "num_comments": 0,
+            "objectID": "43332298",
+            "points": 1,
+            "story_id": 43332298,
+            "title": "Emerging launch companies see strong demand but look for government support",
+            "updated_at": "2025-03-11T13:37:24Z",
+            "url": "https://spacenews.com/emerging-launch-companies-see-strong-demand-but-look-for-government-support/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "lambertsimnel"
+                },
+                "title": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "The online accounts and Company Tax Return service is closing"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.gov.uk/government/news/the-online-accounts-and-company-tax-return-service-is-closing"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_lambertsimnel",
+                "story_43332292"
+            ],
+            "author": "lambertsimnel",
+            "created_at": "2025-03-11T13:34:43Z",
+            "created_at_i": 1741700083,
+            "num_comments": 0,
+            "objectID": "43332292",
+            "points": 1,
+            "story_id": 43332292,
+            "title": "The online accounts and Company Tax Return service is closing",
+            "updated_at": "2025-03-11T13:37:24Z",
+            "url": "https://www.gov.uk/government/news/the-online-accounts-and-company-tax-return-service-is-closing"
+        }
+    ],
+    "hitsPerPage": 20,
+    "nbHits": 2984815,
+    "nbPages": 50,
+    "page": 0,
+    "params": "tags=story&advancedSyntax=true&analyticsTags=backend",
+    "processingTimeMS": 1,
+    "processingTimingsMS": {
+        "_request": {
+            "queue": 4,
+            "roundTrip": 15
+        },
+        "fetch": {
+            "scanning": 2
+        },
+        "total": 1
+    },
+    "query": "",
+    "serverTimeMS": 6
+}
